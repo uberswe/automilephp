@@ -1,0 +1,21 @@
+{
+  "name": "markustenghamn/automile",
+  "description": "PHP classes to communicate with the Automile API",
+  "keywords": ["laravel", "automile"],
+  "license": "BSD-2-Clause",
+  "authors": [
+    {
+      "name": "markustenghamn",
+      "email": "markus@tenghamn.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+  },
+  "autoload": {
+    "psr-4": {
+      "Markustenghamn\\Automile\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
