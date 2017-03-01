@@ -1,5 +1,5 @@
 {
-  "name": "markustenghamn/automile",
+  "name": "markustenghamn/automilephp",
   "description": "PHP classes to communicate with the Automile API",
   "keywords": ["laravel", "automile"],
   "license": "BSD-2-Clause",
@@ -17,5 +17,5 @@
       "Markustenghamn\\Automile\\": "src/"
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
